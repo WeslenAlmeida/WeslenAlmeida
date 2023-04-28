@@ -5,7 +5,7 @@
 
       - Studying Systems Analysis and Development.
     
-      - Back-End development trainee with focus on .Net C#, Sql Server, Mongo DB, Api, Docker and Kubernetes.
+      - Back-End development with focus on .Net C#, Sql Server, Mongo DB, Api, Docker and Kubernetes.
       
       - Email : weslen1202@gmail.com
       

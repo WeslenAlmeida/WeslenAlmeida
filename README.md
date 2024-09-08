@@ -1,13 +1,9 @@
-### Hi there 👋
+### Olá 👋
 
-<h1> I am Weslen Tiago de Almeida!
+<h1> Weslen Tiago de Almeida!
 </h1>
 
-      - Studying Systems Analysis and Development.
-    
-      - Back-End development with focus on .Net C#, Sql Server, Mongo DB, Api, Docker and Kubernetes.
-      
-      - Email : weslen1202@gmail.com
+      Desenvolvedor Pleno na empresa 5by5 utilizando os recursos para desenvolvimento .NET, SQL Server, MongoDB, Docker, Kubernetes, Datadog. Utilizando os padrões DDD (Domain Drive Design) e CQRS (Command Query Responsibility Segregation).
       
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Weslen-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

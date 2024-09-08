@@ -1,9 +1,11 @@
-### Olá 👋
-
-<h1> Weslen Tiago de Almeida!
+### Olá !👋
+<h1> 
 </h1>
 
-      Desenvolvedor Pleno na empresa 5by5 utilizando os recursos para desenvolvimento .NET, SQL Server, MongoDB, Docker, Kubernetes, Datadog. Utilizando os padrões DDD (Domain Drive Design) e CQRS (Command Query Responsibility Segregation).
+       - Sou desenvolvedor Pleno na empresa 5by5 utilizando os recursos para desenvolvimento .NET, 
+            SQL Server, MongoDB, Docker, Kubernetes, Datadog, utilizando os padrões DDD (Domain Drive Design)
+            e CQRS (Command Query Responsibility Segregation).
+            
       
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Weslen-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
